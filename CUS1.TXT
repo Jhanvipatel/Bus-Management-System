@@ -1,0 +1,22 @@
+-----------------------------------------------------------
+SOURCE		DESTINATION     BUSNO.    CHARGE     TIME
+-----------------------------------------------------------
+
+
+Ahmedabad	baroda		1	1	3.30
+Ahmedabad	surat		2	3	4.78
+Ahmedabad	surat		2	2	2.93
+Baroda		ahmeadad	44	23	2.98
+A	        ddddd		3	3	5.89
+ah		df		2	23	2.3
+baroda	        drrrr		3	3	0.5
+ahmedabad	sdfghj		2	3	9.887
+ahnehe	        ssds		1986	20630	0
+ahmedabad	baroda		2	3	2.22
+sssss		sssss		1	2	1
+ahmesdddd		weeeeee		2	2	2.433
+adfghjk		baroda		2	2	1.54
+bhumi		jhanvi		1614	1234567890	24
+bhumi		jhanvi		123	111	1.23
+hello		sdfreww		12343	232322	2.43
+fdfgdf		dfgdfg		32	2332	6

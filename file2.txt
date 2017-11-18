@@ -1,0 +1,9 @@
+                               -:Future Project:-
+
+--    Integrated Depot Management System consisting of all activities of Depot 
+      level is under development.
+--    GSRTC intend to establish Online Bus Tracking System in its all buses.
+--    Online Fleet Management system with public information.
+--    Public entertainment system in buses as well as it major bus stations.
+
+
